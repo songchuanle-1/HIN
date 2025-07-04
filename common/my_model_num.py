@@ -1,0 +1,2 @@
+static_var=0
+static_var_feature=0
