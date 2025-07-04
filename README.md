@@ -10,6 +10,7 @@ The purpose of the image captioning task is to understand the content of an imag
 <div align="center">
   <img src="images/framework.png"/>
 </div>
+
 ## 1 Environment setup
 Clone the repository and create the `HIN` conda environment:
 ```
